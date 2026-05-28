@@ -20,8 +20,6 @@ This repository is a **public mirror** of my private Jira backlog. It lets class
 ### Browse progress (no account needed)
 Head to the **[MSAIE Cohort Aug 2027 Project Board](https://github.com/users/roasoul/projects/1)** to see all 58 items laid out with status, week number, course, type, and due date.
 
-> Note: The project URL will be updated once the board is confirmed public. If the link above does not work, go to [github.com/roasoul](https://github.com/roasoul) and look for the project under the **Projects** tab.
-
 ### Leave a comment (free GitHub account required)
 1. Create a free account at [github.com](https://github.com)
 2. Navigate to any [Issue](https://github.com/roasoul/quantic-msaie-2027/issues)
